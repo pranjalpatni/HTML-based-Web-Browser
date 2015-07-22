@@ -1,9 +1,7 @@
 
-/* Pranjal Patni (pxp142030)
- * Abhishek Bansal (axb146030)
- * 
- * @author Abhishek Bansal, Pranjal Patni
- * @email-id axb146030@utdallas.edu, pxp142030@utdallas.edu
+/* 
+ * @author Pranjal Patni
+ * @email-id pxp142030@utdallas.edu
  * @version 1.0
  * 
  * This project mainly focuses on how to write a simple web browser. We will utilize Sockets for communication between processes. 
